@@ -14,6 +14,8 @@ A modern desktop Student Management System built with Python, Tkinter, and ttkbo
 
 - Python 3.10+
 
+## Image
+![My Logo](./src/image.png)
 ## Setup (Windows PowerShell)
 
 ```powershell
